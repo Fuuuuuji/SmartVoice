@@ -3,6 +3,7 @@ SmartVoice is an innovative community participation platform that redefines the 
 
 ## Research Frame
 ![image](https://github.com/user-attachments/assets/93518841-1fc5-4925-8c21-4fe77d7ea9da)
+You can scann the QRcode to use it on Wechat.
 
 ## Information Theory
 ![image](https://github.com/user-attachments/assets/fbe1c093-d201-438e-94b0-fc89319d4acd)
@@ -68,34 +69,7 @@ The attacks by local residents produced over 1,000 design results, covering thre
 #### GIS & Network Analysis
 ![image](https://github.com/user-attachments/assets/262de80d-b14b-491f-a127-67d8ea9f9e4f)
 
-#### Paradigm Analysis
+#### Prototype Analysis
 ![image](https://github.com/user-attachments/assets/977503d8-1828-4e58-99a7-aa4c6a76f69b)
 ![image](https://github.com/user-attachments/assets/b7d9d96f-954e-4cce-84a3-7a18f79ac789)
 ![image](https://github.com/user-attachments/assets/ca1cba9a-9d34-4c0f-a110-bafab02b8626)
-
-```
-SmartVoice/
-├── smartvoice-frontend/              # WeChat Mini Program frontend
-│   ├── pages/                        # Page components
-│   │   ├── snap-design/              # Shooting design page
-│   │   ├── chat-explore/             # Dialogue exploration page
-│   │   └── data-review/              # Data details page
-│   ├── services/                     # Service layer
-│   └── utils/                        # Utility functions
-├── smartvoice-backend/               # Backend services
-│   ├── models/                       # Data models
-│   ├── agents/                       # AI agent modules
-│   │   ├── llm/                      # Large language model interface
-│   │   ├── rag/                      # Retrieval-augmented generation
-│   │   └── cot/                      # Chain of thought reasoning
-│   ├── api/                          # API interfaces
-│   └── database/                     # Database operations
-├── docs/                             # Documentation
-│   ├── papers/                       # Research papers
-│   ├── case-studies/                 # Case studies
-│   └── design-docs/                  # Design documents
-├── datasets/                         # Datasets
-│   ├── fine-tuning/                  # Model fine-tuning data
-│   └── practice-data/                # Community practice data
-└── scripts/                          # Auxiliary scripts
-```
